@@ -1,3 +1,4 @@
+
 html{
     font-family: 'Montserrat', sans-serif;
 }
@@ -40,7 +41,7 @@ section article h2, section article p {
 footer{
     background-color: #222;
     padding: 3rem;
-    color: white;
+    color: #ebf74b;
 }
 footer section{
     float: right;
